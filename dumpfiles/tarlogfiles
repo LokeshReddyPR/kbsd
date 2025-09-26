@@ -1,0 +1,705 @@
+x kbsd-src/crypto/openssh/regress/._keygen-comment.sh
+x kbsd-src/crypto/openssh/regress/keygen-comment.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-pkcs11.sh
+x kbsd-src/crypto/openssh/regress/agent-pkcs11.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._hostkey-rotate.sh
+x kbsd-src/crypto/openssh/regress/hostkey-rotate.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._timestamp.c
+x kbsd-src/crypto/openssh/regress/timestamp.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._key-options.sh
+x kbsd-src/crypto/openssh/regress/key-options.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._banner.sh
+x kbsd-src/crypto/openssh/regress/banner.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-getpeereid.sh
+x kbsd-src/crypto/openssh/regress/agent-getpeereid.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._sftp-batch.sh
+x kbsd-src/crypto/openssh/regress/sftp-batch.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._proto-mismatch.sh
+x kbsd-src/crypto/openssh/regress/proto-mismatch.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._integrity.sh
+x kbsd-src/crypto/openssh/regress/integrity.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._yes-head.sh
+x kbsd-src/crypto/openssh/regress/yes-head.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._scp.sh
+x kbsd-src/crypto/openssh/regress/scp.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._stderr-after-eof.sh
+x kbsd-src/crypto/openssh/regress/stderr-after-eof.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._dsa_ssh2.pub
+x kbsd-src/crypto/openssh/regress/dsa_ssh2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._cert-userkey.sh
+x kbsd-src/crypto/openssh/regress/cert-userkey.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._cfgparse.sh
+x kbsd-src/crypto/openssh/regress/cfgparse.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._sshfp-connect.sh
+x kbsd-src/crypto/openssh/regress/sshfp-connect.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._scp-ssh-wrapper.sh
+x kbsd-src/crypto/openssh/regress/scp-ssh-wrapper.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._test-exec.sh
+x kbsd-src/crypto/openssh/regress/test-exec.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._knownhosts.sh
+x kbsd-src/crypto/openssh/regress/knownhosts.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._percent.sh
+x kbsd-src/crypto/openssh/regress/percent.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._putty-transfer.sh
+x kbsd-src/crypto/openssh/regress/putty-transfer.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._keytype.sh
+x kbsd-src/crypto/openssh/regress/keytype.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._putty-kex.sh
+x kbsd-src/crypto/openssh/regress/putty-kex.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._portnum.sh
+x kbsd-src/crypto/openssh/regress/portnum.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._sftp-perm.sh
+x kbsd-src/crypto/openssh/regress/sftp-perm.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._keygen-change.sh
+x kbsd-src/crypto/openssh/regress/keygen-change.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._ed25519_openssh.prv
+x kbsd-src/crypto/openssh/regress/ed25519_openssh.prv: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._valgrind-unit.sh
+x kbsd-src/crypto/openssh/regress/valgrind-unit.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._connect.sh
+x kbsd-src/crypto/openssh/regress/connect.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._limit-keytype.sh
+x kbsd-src/crypto/openssh/regress/limit-keytype.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._conch-ciphers.sh
+x kbsd-src/crypto/openssh/regress/conch-ciphers.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._servcfginclude.sh
+x kbsd-src/crypto/openssh/regress/servcfginclude.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._forcecommand.sh
+x kbsd-src/crypto/openssh/regress/forcecommand.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-pkcs11-cert.sh
+x kbsd-src/crypto/openssh/regress/agent-pkcs11-cert.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._connection-timeout.sh
+x kbsd-src/crypto/openssh/regress/connection-timeout.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._t11.ok
+x kbsd-src/crypto/openssh/regress/t11.ok: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-timeout.sh
+x kbsd-src/crypto/openssh/regress/agent-timeout.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._broken-pipe.sh
+x kbsd-src/crypto/openssh/regress/broken-pipe.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._README.regress
+x kbsd-src/crypto/openssh/regress/README.regress: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._cfgmatch.sh
+x kbsd-src/crypto/openssh/regress/cfgmatch.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._ssh-com-sftp.sh
+x kbsd-src/crypto/openssh/regress/ssh-com-sftp.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._hostkey-agent.sh
+x kbsd-src/crypto/openssh/regress/hostkey-agent.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._dropbear-kex.sh
+x kbsd-src/crypto/openssh/regress/dropbear-kex.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._reconfigure.sh
+x kbsd-src/crypto/openssh/regress/reconfigure.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._authinfo.sh
+x kbsd-src/crypto/openssh/regress/authinfo.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._ssh-com-keygen.sh
+x kbsd-src/crypto/openssh/regress/ssh-com-keygen.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-ptrace.sh
+x kbsd-src/crypto/openssh/regress/agent-ptrace.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._rsa_ssh2.prv
+x kbsd-src/crypto/openssh/regress/rsa_ssh2.prv: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._dropbear-ciphers.sh
+x kbsd-src/crypto/openssh/regress/dropbear-ciphers.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._ed25519_openssh.pub
+x kbsd-src/crypto/openssh/regress/ed25519_openssh.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._putty-ciphers.sh
+x kbsd-src/crypto/openssh/regress/putty-ciphers.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._stderr-data.sh
+x kbsd-src/crypto/openssh/regress/stderr-data.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._channel-timeout.sh
+x kbsd-src/crypto/openssh/regress/channel-timeout.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._localcommand.sh
+x kbsd-src/crypto/openssh/regress/localcommand.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._check-perm.c
+x kbsd-src/crypto/openssh/regress/check-perm.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._envpass.sh
+x kbsd-src/crypto/openssh/regress/envpass.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._forwarding.sh
+x kbsd-src/crypto/openssh/regress/forwarding.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._cert-file.sh
+x kbsd-src/crypto/openssh/regress/cert-file.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._sftp-chroot.sh
+x kbsd-src/crypto/openssh/regress/sftp-chroot.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._knownhosts-command.sh
+x kbsd-src/crypto/openssh/regress/knownhosts-command.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._keygen-sshfp.sh
+x kbsd-src/crypto/openssh/regress/keygen-sshfp.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._hostbased.sh
+x kbsd-src/crypto/openssh/regress/hostbased.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-subprocess.sh
+x kbsd-src/crypto/openssh/regress/agent-subprocess.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-pkcs11-restrict.sh
+x kbsd-src/crypto/openssh/regress/agent-pkcs11-restrict.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._sftp-uri.sh
+x kbsd-src/crypto/openssh/regress/sftp-uri.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._keys-command.sh
+x kbsd-src/crypto/openssh/regress/keys-command.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._forward-control.sh
+x kbsd-src/crypto/openssh/regress/forward-control.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._agent-restrict.sh
+x kbsd-src/crypto/openssh/regress/agent-restrict.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._dhgex.sh
+x kbsd-src/crypto/openssh/regress/dhgex.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._ssh-com.sh
+x kbsd-src/crypto/openssh/regress/ssh-com.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._penalty-expire.sh
+x kbsd-src/crypto/openssh/regress/penalty-expire.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._try-ciphers.sh
+x kbsd-src/crypto/openssh/regress/try-ciphers.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._dsa_ssh2.prv
+x kbsd-src/crypto/openssh/regress/dsa_ssh2.prv: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/._login-timeout.sh
+x kbsd-src/crypto/openssh/regress/login-timeout.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._misc
+x kbsd-src/crypto/openssh/regress/unittests/misc/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._utf8
+x kbsd-src/crypto/openssh/regress/unittests/utf8/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._bitmap
+x kbsd-src/crypto/openssh/regress/unittests/bitmap/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._match
+x kbsd-src/crypto/openssh/regress/unittests/match/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._kex
+x kbsd-src/crypto/openssh/regress/unittests/kex/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._test_helper
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._hostkeys
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._conversion
+x kbsd-src/crypto/openssh/regress/unittests/conversion/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._Makefile.inc
+x kbsd-src/crypto/openssh/regress/unittests/Makefile.inc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._sshbuf
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._sshkey
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._authopt
+x kbsd-src/crypto/openssh/regress/unittests/authopt/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/._sshsig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/._testdata
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/._mktestdata.sh
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/mktestdata.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/._webauthn.html
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/webauthn.html: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ed25519.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ed25519.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa_sk
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa_sk: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ed25519_sk
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ed25519_sk: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa_sk.sig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa_sk.sig: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._rsa.sig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/rsa.sig: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa_sk_webauthn.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa_sk_webauthn.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._dsa.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/dsa.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ed25519_sk.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ed25519_sk.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._rsa
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/rsa: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._dsa
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/dsa: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa.sig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa.sig: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._namespace
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/namespace: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._rsa.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/rsa.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa_sk.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa_sk.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ed25519.sig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ed25519.sig: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ed25519_sk.sig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ed25519_sk.sig: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._dsa.sig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/dsa.sig: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa_sk_webauthn.sig
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa_sk_webauthn.sig: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ed25519
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ed25519: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._signed-data
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/signed-data: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/._ecdsa.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshsig/testdata/ecdsa.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/._testdata
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/authopt/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._no_user_rc.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/no_user_rc.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._only_agentfwd.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/only_agentfwd.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._host.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/host.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._only_x11fwd.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/only_x11fwd.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._only_portfwd.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/only_portfwd.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._no_permit.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/no_permit.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._no_pty.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/no_pty.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._unknown_critical.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/unknown_critical.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._no_portfwd.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/no_portfwd.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._no_x11fwd.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/no_x11fwd.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._only_user_rc.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/only_user_rc.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._no_agentfwd.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/no_agentfwd.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._mktestdata.sh
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/mktestdata.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._sourceaddr.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/sourceaddr.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._only_pty.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/only_pty.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._bad_sourceaddr.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/bad_sourceaddr.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._force_command.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/force_command.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/._all_permit.cert
+x kbsd-src/crypto/openssh/regress/unittests/authopt/testdata/all_permit.cert: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._common.c
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/common.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._testdata
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._test_fuzz.c
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/test_fuzz.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._test_file.c
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/test_file.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._mktestdata.sh
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/mktestdata.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._common.h
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/common.h: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/._test_sshkey.c
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/test_sshkey.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1-cert.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1-cert.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_2
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_2: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_2.param.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_2.param.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1-cert.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1-cert.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk2
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk2: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_2.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_2.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_1.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_1.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_2.param.priv
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_2.param.priv: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk1.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk1.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_2.param.q
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_2.param.q: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1_sha512
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1_sha512: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1_sha1.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1_sha1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1_sha512-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1_sha512-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_1-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_1-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_2.param.p
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_2.param.p: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_2.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_2.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk1.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk1.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_1.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_1.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk1.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk1-cert.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk1-cert.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_n
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_n: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk2.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_n_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_n_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1.param.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1.param.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk1: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_n_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_n_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk1_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk1_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_2.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_2.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1.param.p
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1.param.p: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk1-cert.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk1-cert.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_2
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_2: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1-cert.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1-cert.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk2.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk2.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk2.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk2.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1.param.q
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1.param.q: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_2
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_2: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1_sha1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1_sha1: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk1.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk1.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk1: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1.param.priv
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1.param.priv: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk1.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk1.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_1: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_2.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_2.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_2.param.n
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_2.param.n: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_2.param.curve
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_2.param.curve: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_n_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_n_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_1_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_1_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1.param.curve
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1.param.curve: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_1-cert.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_1-cert.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk2.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk2.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1.param.priv
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1.param.priv: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_2
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_2: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk2.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk2.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_2.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_2.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk1_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk1_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1.param.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1.param.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_2.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_2.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_1.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_1.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_n
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_n: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_2.fp.bb
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_2.fp.bb: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ed25519_sk1-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ed25519_sk1-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_2.fp
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_2.fp: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1.param.g
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1.param.g: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk2
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk2: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk1.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk1-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk1-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1_sha1-cert.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1_sha1-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_n
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_n: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1.param.n
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1.param.n: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._dsa_1_pw
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/dsa_1_pw: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._ecdsa_sk2.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/ecdsa_sk2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/._rsa_1_sha512.pub
+x kbsd-src/crypto/openssh/regress/unittests/sshkey/testdata/rsa_1_sha512.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._test_sshbuf_getput_basic.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/test_sshbuf_getput_basic.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._test_sshbuf_getput_crypto.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/test_sshbuf_getput_crypto.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._test_sshbuf_fixed.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/test_sshbuf_fixed.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._test_sshbuf_misc.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/test_sshbuf_misc.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._test_sshbuf_getput_fuzz.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/test_sshbuf_getput_fuzz.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._test_sshbuf.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/test_sshbuf.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._test_sshbuf_fuzz.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/test_sshbuf_fuzz.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/sshbuf/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/conversion/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/conversion/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/conversion/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/conversion/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/._testdata
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/._mktestdata.sh
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/mktestdata.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/._test_iterate.c
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/test_iterate.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._dsa_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/dsa_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._dsa_3.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/dsa_3.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._dsa_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/dsa_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._dsa_4.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/dsa_4.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._dsa_5.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/dsa_5.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._dsa_6.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/dsa_6.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ed25519_3.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ed25519_3.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ecdsa_4.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ecdsa_4.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa1_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa1_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa1_3.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa1_3.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ecdsa_5.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ecdsa_5.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ed25519_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ed25519_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa1_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa1_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ecdsa_6.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ecdsa_6.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa_3.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa_3.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ed25519_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ed25519_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ed25519_5.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ed25519_5.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ecdsa_2.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ecdsa_2.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa1_4.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa1_4.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa1_5.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa1_5.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ecdsa_3.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ecdsa_3.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ed25519_4.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ed25519_4.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa_6.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa_6.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa_4.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa_4.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ed25519_6.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ed25519_6.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._ecdsa_1.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/ecdsa_1.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa1_6.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa1_6.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._rsa_5.pub
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/rsa_5.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/._known_hosts
+x kbsd-src/crypto/openssh/regress/unittests/hostkeys/testdata/known_hosts: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/._test_helper.c
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/test_helper.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/._fuzz.c
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/fuzz.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/._test_helper.h
+x kbsd-src/crypto/openssh/regress/unittests/test_helper/test_helper.h: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/kex/._test_kex.c
+x kbsd-src/crypto/openssh/regress/unittests/kex/test_kex.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/kex/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/kex/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/kex/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/kex/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/kex/._test_proposal.c
+x kbsd-src/crypto/openssh/regress/unittests/kex/test_proposal.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/match/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/match/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/match/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/match/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/bitmap/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/bitmap/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/bitmap/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/bitmap/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/utf8/._Makefile
+x kbsd-src/crypto/openssh/regress/unittests/utf8/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/utf8/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/utf8/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._test_ptimeout.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/test_ptimeout.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._test_hpdelim.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/test_hpdelim.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._test_expand.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/test_expand.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._test_strdelim.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/test_strdelim.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._test_argv.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/test_argv.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._tests.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/tests.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._test_convtime.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/test_convtime.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/unittests/misc/._test_parse.c
+x kbsd-src/crypto/openssh/regress/unittests/misc/test_parse.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/._Makefile
+x kbsd-src/crypto/openssh/regress/misc/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/._fuzz-harness
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/._sk-dummy
+x kbsd-src/crypto/openssh/regress/misc/sk-dummy/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/sk-dummy/._fatal.c
+x kbsd-src/crypto/openssh/regress/misc/sk-dummy/fatal.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/sk-dummy/._sk-dummy.c
+x kbsd-src/crypto/openssh/regress/misc/sk-dummy/sk-dummy.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._agent_fuzz_helper.c
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/agent_fuzz_helper.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._testdata
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._sig_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/sig_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._authkeys_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/authkeys_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._sshsigopt_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/sshsigopt_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._kex_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/kex_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._Makefile
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/Makefile: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._mkcorpus_sntrup761.c
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/mkcorpus_sntrup761.c: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._pubkey_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/pubkey_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._authopt_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/authopt_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._watch-sntrup761.sh
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/watch-sntrup761.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._README
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/README: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._fixed-keys.h
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/fixed-keys.h: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._sntrup761_dec_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/sntrup761_dec_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._sshsig_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/sshsig_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._privkey_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/privkey_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._ssh-sk-null.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/ssh-sk-null.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._agent_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/agent_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/._sntrup761_enc_fuzz.cc
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/sntrup761_enc_fuzz.cc: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ed25519_sk.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ed25519_sk.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ecdsa_sk.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ecdsa_sk.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._create-agent-corpus.sh
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/create-agent-corpus.sh: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ed25519
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ed25519: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ed25519.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ed25519.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ecdsa
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ecdsa: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ecdsa_sk
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ecdsa_sk: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_rsa
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_rsa: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ecdsa_sk-cert.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ecdsa_sk-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ecdsa.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ecdsa.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_rsa.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_rsa.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_dsa
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_dsa: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._README
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/README: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ed25519_sk-cert.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ed25519_sk-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_dsa-cert.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_dsa-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ecdsa-cert.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ecdsa-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ed25519_sk
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ed25519_sk: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_ed25519-cert.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_ed25519-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_rsa-cert.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_rsa-cert.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/._id_dsa.pub
+x kbsd-src/crypto/openssh/regress/misc/fuzz-harness/testdata/id_dsa.pub: Cannot restore extended attributes: com.apple.provenance com.apple.provenance: Unknown error: -1
+tar: Error exit delayed from previous errors.
